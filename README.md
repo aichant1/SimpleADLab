@@ -1,4 +1,4 @@
-<h1>Active Directory Lab</h1>
+<h1>Active Directory Basics - Identity & Access Management Lab </h1>
 
 
 <h2>Description</h2>
