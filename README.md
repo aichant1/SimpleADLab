@@ -36,7 +36,6 @@ Modified group memberships to simulate permission changes for different roles
 - Role-based access control (RBAC) via security groups
 - Working with virtualized enterprise environments using VMware Fusion</b>
 
-
 <h2>Program walk-through:</h2>
 
 <p align="center">
@@ -45,7 +44,7 @@ Windows Server domain controller running inside VMware Fusion on macOS.  <br/>
 <br />
 <br />  
 Windows Server configured as a Domain Controller with Active Directory Domain Services. <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1092" height="874" alt="image" src="https://github.com/user-attachments/assets/37d16edd-a523-4ce4-a698-d802b1e1ddeb" />
 <br />
 <br />
 Active Directory domain structure using Organizational Units to separate users and groups. <br/>
