@@ -44,11 +44,12 @@ Windows Server domain controller running inside VMware Fusion on macOS.  <br/>
 <br />
 <br />  
 Windows Server configured as a Domain Controller with Active Directory Domain Services. <br/>
-<img width="1092" height="874" alt="image" src="https://github.com/user-attachments/assets/37d16edd-a523-4ce4-a698-d802b1e1ddeb" />
+<img width="1136" height="750" alt="image" src="https://github.com/user-attachments/assets/37d16edd-a523-4ce4-a698-d802b1e1ddeb" />
 <br />
 <br />
 Active Directory domain structure using Organizational Units to separate users and groups. <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1136" height="750" alt="image" src="https://github.com/user-attachments/assets/f6576220-dcfa-4732-b748-f68de145bcda" />
+
 <br />
 <br />
 Confirm your selection:  <br/>
