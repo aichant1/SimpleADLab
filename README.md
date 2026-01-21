@@ -49,19 +49,18 @@ Windows Server configured as a Domain Controller with Active Directory Domain Se
 <br />
 Active Directory domain structure using Organizational Units to separate users and groups. <br/>
 <img width="1136" height="750" alt="image" src="https://github.com/user-attachments/assets/f6576220-dcfa-4732-b748-f68de145bcda" />
-
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Domain user accounts created to represent employees in an enterprise environment.  <br/>
+<img width="1136" height="918" alt="image" src="https://github.com/user-attachments/assets/caaf5ccb-0457-44a0-863f-d946c590a9b9" />
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Security groups created to manage role-based access control.  <br/>
+<img width="1136" height="918" alt="image" src="https://github.com/user-attachments/assets/39d973f9-5e0b-4829-b4c3-d54db6c15918" />
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+User assigned to a security group to inherit role-based permissions. <br/>
+<img width="1136" height="918" alt="image" src="https://github.com/user-attachments/assets/93aa89d5-a466-4bd4-9ad7-0dfba81a8935" />
 <br />
 <br />
 Observe the wiped disk:  <br/>
